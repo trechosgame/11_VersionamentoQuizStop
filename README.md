@@ -70,8 +70,8 @@ public class AudioManager : MonoBehaviour
 
 #### Passo 4: Confirme o OnClick dos botões
 - On Click ()
-  ├─ GC → ResponderResposta()
-  └─ AudioManager → PlayClick()
+-   ├─ GC → ResponderResposta()
+  - └─ AudioManager → PlayClick()
   ```
 
 # Resultado:
@@ -79,9 +79,6 @@ public class AudioManager : MonoBehaviour
 - Som só toca quando clica**
 - AudioManager centralizado e funcionando em qualquer cena
 
-- <img src="AudioMixer.png" width="500px">
-
- 
 # CÓDIGO FONTE DOS EFEITOS SONOROS:
  - https://www.youtube.com/watch?v=N8whM1GjH4w&list=PLf6aEENFZ4Fv0ifncKE3T05qrI450U_aD&index=18
    
