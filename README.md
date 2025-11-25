@@ -79,7 +79,7 @@ public class AudioManager : MonoBehaviour
 - Som só toca quando clica**
 - AudioManager centralizado e funcionando em qualquer cena
 
-#
+####
 
 # CÓDIGO FONTE DOS EFEITOS SONOROS:
  - https://www.youtube.com/watch?v=N8whM1GjH4w&list=PLf6aEENFZ4Fv0ifncKE3T05qrI450U_aD&index=18
